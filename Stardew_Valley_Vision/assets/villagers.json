@@ -1,0 +1,65 @@
+{
+	"Abigail": {
+		"birthday" : "Fall 13",
+		"loves" : "Amethyst, Banana Pudding, Blackberry Cobbler, Chocolate Cake, Pufferfish, Pumpkin, Spicy Eel",
+		"likes" : "Quartz",
+		"hates" : "Clay, Holly",
+		"introduction" : "Abigail is a villager who lives at Pierre's General Store in Pelican Town. She is one of the twelve characters available to marry. "
+	},
+	
+	"Emily": {
+		"birthday" : "Spring 27",
+		"loves" : "Amethyst, Aquamarine, Cloth, Emerald, Jade, Ruby, Survival Burger, Topaz, Wool",
+		"likes" : "Daffodil, Quartz",
+		"hates" : "Fish Taco, Holly, Maki Roll, Salmon Dinner, Sashimi",
+		"introduction" : "Emily is a villager who lives in Pelican Town. She is one of the twelve characters available to marry. Her home is south of the town square, right next to Jodi's house, at the address 2 Willow Lane. She works most evenings at The Stardrop Saloon starting at about 4:00 PM."
+	},
+	
+	"Haley": {
+		"birthday" : "Spring 14",
+		"loves" : "Coconut, Fruit Salad, Pink Cake, Sunflower",
+		"likes" : "Daffodil",
+		"hates" : "All Fish, Clay, Prismatic Shard, Wild Horseradish",
+		"introduction" : "Haley is a villager who lives in Pelican Town. She's one of the twelve characters available to marry."
+	},
+	
+	"Maru": {
+		"birthday" : "Summer 10",
+		"loves" : "Battery Pack, Cauliflower, Cheese Cauliflower, Diamond, Gold Bar, Iridium Bar, Miner's Treat, Pepper Poppers, Radioactive Bar, Rhubarb Pie, Strawberry",
+		"likes" : "Copper Bar, Iron Bar, Oak Resin, Pine Tar, Quartz, Radioactive Ore",
+		"hates" : "Holly, Honey, Pickles, Snow Yam, Truffle",
+		"introduction" : "Maru is a villager who lives in The Mountains north of Pelican Town. She's one of the twelve characters available to marry. She lives north of town with her family in a house attached to Robin's carpenter shop. In the Social Status menu, Maru's outfit will change to a nursing uniform when she is at her job at the clinic."
+	},
+	
+	"Penny": {
+		"birthday" : "Fall 02",
+		"loves" : "Diamond, Emerald, Melon, Poppy, Poppyseed Muffin, Red Plate, Roots Platter, Sandfish, Tom Kha Soup",
+		"likes" : "All Artifacts, All Milk, Dandelion, Leek",
+		"hates" : "Beer, Grape, Holly, Hops, Mead, Pale Ale, Pina Colada, Rabbits Foot, Wine",
+		"introduction" : "Penny is a villager who lives in Pelican Town. She's one of the twelve characters available to marry. Her trailer is just east of the center of town, west of the river. She teaches Vincent and Jas."
+	},
+
+	"Alex": {
+		"birthday" : "Summer 13",
+		"loves" : "Complete Breakfast, Salmon Dinner",
+		"likes" : "All Eggs (except Void Egg)",
+		"hates" : "Holly, Quartz",
+		"introduction" : "Alex is a villager who lives in the house southeast of Pierre's General Store. Alex is one of the twelve characters available to marry."
+	},
+	
+	"Harvey": {
+		"birthday" : "Winter 14",
+		"loves" : "Coffee, Pickles, Super Meal, Truffle Oil, Wine",
+		"likes" : "Daffodil, Dandelion, Duck Egg, Duck Feather, Ginger, Goat Milk, Hazelnut, Holly, Large Goat Milk, Leek, Quartz, Snow Yam, Spring Onion, Wild Horseradish, Winter Root",
+		"hates" : "Coral, Nautilus Shell, Rainbow Shell, Salmonberry, Spice Berry",
+		"introduction" : "Harvey is a villager who lives in Pelican Town. He runs the town's medical clinic and is passionate about the health of the townsfolk. He's one of the twelve characters available to marry."
+	},
+	
+	"Sam": {
+		"birthday" : "Summer 17",
+		"loves" : "Cactus Fruit, Maple Bar, Pizza, Tigerseye",
+		"likes" : "All Eggs (except Void Egg), Joja Cola",
+		"hates" : "Coal, Copper Bar, Duck Mayonnaise, Gold Bar, Gold Ore, Iridium Bar, Iridium Ore, Iron Bar, Mayonnaise, Pickles, Refined Quartz",
+		"introduction" : "Sam is a villager who lives in Pelican Town. He's one of the twelve characters available to marry. He lives in the southern part of town, just north of the river at 1 Willow Lane. Sam is an outgoing and energetic young man with a passion for music. He works part-time at JojaMart."
+	}
+}
